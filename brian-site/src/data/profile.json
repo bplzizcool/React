@@ -17,7 +17,7 @@
       "roles": [
         {
           "title": "Software Engineer II",
-          "description": "Developed web-based Software.",
+          "description": "Designs, modifies and implements software application changes",
           "startDate": "2021-11-03",
           "currentJob": true,
           "location": "Atlanta, GA"
@@ -25,30 +25,30 @@
       ]
     },
     {
-      "companyName": "Demo1 Technologies",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "url": "https://www.google.com/",
+      "companyName": "United Parcel Service (UPS)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/UPS_Logo_Shield_2017.svg",
+      "url": "https://www.ups.com/",
       "roles": [
         {
-          "title": "Full Stack Developer",
-          "description": "Built and updated various Chrome Extensions.",
-          "startDate": "2017-01-01",
-          "endDate": "2017-05-01",
-          "location": "New York, USA"
+          "title": "Web Development Supervisor",
+          "description": "Managed development of the presentation layer for UPS.com applications. Collaborated with cross-functional teams and vendors to deliver accurate, timely webpages meeting WCAG and brand standards.",
+          "startDate": "2019-03-01",
+          "endDate": "2021-10-01",
+          "location": "Alpharetta, GA"
         }
       ]
     },
     {
-      "companyName": "Demo2 Technologies",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "url": "https://www.google.com/",
+      "companyName": "TAPFIN, Manpower Group",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/ManpowerGroup_logo.svg",
+      "url": "https://www.manpowergroup.com/en",
       "roles": [
         {
-          "title": "UI Designer",
-          "description": "Design user-fridendly web page",
-          "startDate": "2016-05-01",
-          "endDate": "2016-09-01",
-          "location": "Beijing, China"
+          "title": "Web Development Specialist",
+          "description": "Led development of the Shipping app for the Digital Experience team since May 2018.",
+          "startDate": "2017-10-01",
+          "endDate": "2019-03-01",
+          "location": "Alpharetta, GA"
         }
       ]
     }
