@@ -55,18 +55,22 @@
   ],
   "Skills": [
     {
-      "Area": "Programming Language",
+      "Area": "Programming Languages",
       "SkillSet": [
         {
-          "Name": "Java",
+          "Name": "React",
           "Hot": true
         },
         {
-          "Name": "C#",
+          "Name": "JavaScript",
+          "Hot": true
+        },
+        {
+          "Name": "Angular",
           "Hot": false
         },
         {
-          "Name": "Python",
+          "Name": "Golang",
           "Hot": false
         }
       ]
@@ -105,22 +109,6 @@
         {
           "Name": "NPM",
           "Hot": false
-        },
-        {
-          "Name": "Grunt",
-          "Hot": false
-        },
-        {
-          "Name": "Jamine JavaScript Unit Test",
-          "Hot": true
-        },
-        {
-          "Name": "WebPack",
-          "Hot": false
-        },
-        {
-          "Name": "UX/UI Design",
-          "Hot": false
         }
       ]
     },
@@ -128,11 +116,7 @@
       "Area": "Database",
       "SkillSet": [
         {
-          "Name": "Microsoft SQL",
-          "Hot": false
-        },
-        {
-          "Name": "My SQL",
+          "Name": "Google Cloud Platform",
           "Hot": false
         }
       ]
@@ -146,11 +130,11 @@
         },
         {
           "Name": "Unix/Linux",
-          "Hot": false
+          "Hot": true
         },
         {
           "Name": "Mac OS",
-          "Hot": false
+          "Hot": true
         }
       ]
     },
@@ -158,20 +142,12 @@
       "Area": "Test Driven Development",
       "SkillSet": [
         {
-          "Name": "Junit Test",
-          "Hot": false
-        },
-        {
-          "Name": "Jasmine Test",
+          "Name": "Cypress Io",
           "Hot": true
         },
         {
-          "Name": "MSTest",
-          "Hot": false
-        },
-        {
-          "Name": "Selenium Functional Test",
-          "Hot": false
+          "Name": "JEST/Junit",
+          "Hot": true
         }
       ]
     },
@@ -179,7 +155,7 @@
       "Area": "Software Development Tools and Concepts",
       "SkillSet": [
         {
-          "Name": "Git",
+          "Name": "GitHub",
           "Hot": true
         },
         {
@@ -187,12 +163,12 @@
           "Hot": false
         },
         {
-          "Name": "Jenkins",
-          "Hot": false
-        },
-        {
           "Name": "Agile",
           "Hot": true
+        },
+        {
+          "Name": "UX/UI Design",
+          "Hot": false
         }
       ]
     }
@@ -219,13 +195,13 @@
   ],
   "Education": [
     {
-      "SchoolName": "University of Demo",
+      "SchoolName": "Georgia State University",
+      "Degree": "B.S. - Computer Science",
       "Date": "2013 - 2017",
-      "Degree": "Bachelor of Science - BS, Computer Science",
-      "Location": "Vancouver BC. Canada",
-      "Description": "Demo",
-      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "Location": "Atlanta, GA",
+      "Description": "Concentration: Graphics and Human Computer Interaction",
+      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_State_University_Logo.svg",
+      "SchoolLink": "https://gsu.edu",
       "Awards": [
         {
           "Name": "Award 1",

@@ -27,6 +27,9 @@ class EducationPanel extends Component {
                                                 <Typography component="h2" variant="h5">
                                                     {education.SchoolName}
                                                 </Typography>
+                                                <Typography variant="h6" paragraph>
+                                                    {education.Degree}
+                                                </Typography>
                                                 <Typography variant="subtitle1" color="textSecondary">
                                                     {education.Date}
                                                 </Typography>
